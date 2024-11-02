@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lutz-stu
 - 👀 I’m interested in computer things.
-- 🌱 I’m currently learning HTML, CSS, JS and Python.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 😄 Pronouns: he/him
 
 <!---
