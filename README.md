@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I'm currently working on learning programming and some side projects.<br>
-🌱 I’m currently learning HTML, CSS, and JavaScript.<br>
+🌱 I’m currently learning about ...<br>
 🇩🇪 I live in Germany.
 
 
